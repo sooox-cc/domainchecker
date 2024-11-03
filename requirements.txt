@@ -1,0 +1,4 @@
+nltk==3.8.1
+python-whois==0.8.0
+typing-extensions>=4.5.0
+pathlib>=1.0.1
