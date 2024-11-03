@@ -4,6 +4,8 @@ A Python tool that analyzes the NLTK words corpus to find available domain names
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
+![WTFPL Licence](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
+
 ## 🚀 Features
 
 - Intelligently splits words to find potential domain names
